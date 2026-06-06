@@ -151,7 +151,7 @@ function Hero() {
             {!imgError ? (
               <img
                 src="/photo.jpg"
-                alt="Kushal Hallikar Y"
+                alt="Kushal Hallikar "
                 onError={() => setImgError(true)}
               />
             ) : (
@@ -435,7 +435,7 @@ function Contact() {
 function Footer() {
   return (
     <footer>
-      <span>© 2026 Kushal Hallikar Y · Bengaluru, India</span>
+      <span>© 2026 Kushal Hallikar   Bengaluru, India</span>
       <span>
         B.E. AI &amp; ML ·{' '}
         <a href="https://github.com/kushalhallikar-spec" target="_blank" rel="noreferrer">GitHub</a>
