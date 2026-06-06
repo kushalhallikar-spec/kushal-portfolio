@@ -683,7 +683,10 @@ footer a:hover { color: var(--white); }
   .nav-links { display: none; }
 
   /* HERO */
-  .hero { padding: 0 1.5rem 4rem; justify-content: flex-end; }
+  .hero {
+  padding: 6rem 1.5rem 4rem;
+  justify-content: space-between;
+}
   .hero-bg-text { font-size: clamp(60px, 28vw, 120px); }
   .hero-content { flex-direction: column; align-items: flex-start; gap: 2rem; }
   .hero-heading { font-size: clamp(48px, 13vw, 80px); }
