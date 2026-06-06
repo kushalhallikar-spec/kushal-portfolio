@@ -134,10 +134,9 @@ function Hero() {
       <div className="hero-content">
         <div>
           <h1 className="hero-heading">
-            <span className="grad">Kushal</span><br />
-            Hallikar<br />
-            <span className="dim">Y.</span>
-          </h1>
+  <span className="grad">Kushal</span><br />
+  Hallikar
+</h1>
         </div>
 
         <div className="hero-right">
